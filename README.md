@@ -20,3 +20,6 @@ B. Testing
     4. Find the phoneme error rate (PER) for a given utterance
     5. Repeat 3 and 4 for differrent number of mixtures in the model
     5. Arrive at the optimal number of Mixture components for maximum accuracy - smaller # mixtures (e.g. 2 or 4) --> poor modeling, very high # mixtures (e.g. 256) inadequate training data for estimating large no. of mixture parameters
+
+References:
+https://github.com/sknadig/ASR_2018_T01
