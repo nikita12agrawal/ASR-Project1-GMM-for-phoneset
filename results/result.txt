@@ -1,0 +1,22 @@
+Result of testing:
+
+Frame level accuracy by using map rule to compare classified phoneme with ground truth:
+1) for delta = 0:
+	-with no. of mixture component = 2
+	   accuracy = 11.205995660452553
+	-with no. of mixture component = 4
+	   accuracy = 13.280343621308063
+	-with no. of mixture component = 8
+	   accuracy = 13.523668246025771
+	-with no. of mixture component = 16
+	   accuracy = 13.904928486029315
+	-with no. of mixture component = 32
+	   accuracy = 13.693264845237568
+	-with no. of mixture component = 64
+	   accuracy = 13.102997830226276
+	-with no. of mixture component = 128
+	   accuracy = 12.530221848292964
+	-with no. of mixture component = 256
+	   accuracy = 12.062834875791523
+		
+Highest accuracy is coming with no of mixture component=16
